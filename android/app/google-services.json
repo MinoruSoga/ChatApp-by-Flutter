@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821446109372",
+    "firebase_url": "https://chat-app-a8203.firebaseio.com",
+    "project_id": "chat-app-a8203",
+    "storage_bucket": "chat-app-a8203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821446109372:android:367c5e2735655fd71e88b9",
+        "android_client_info": {
+          "package_name": "com.example.starm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821446109372-1l8nhv1vn4t52m5l1utf7chqvvhsel55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIe-vtbz7Io3FlrVwPbzfGO8TfcHNR1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821446109372-1l8nhv1vn4t52m5l1utf7chqvvhsel55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
